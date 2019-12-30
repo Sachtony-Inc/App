@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SERVERS</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a8604f70-71c8-4a50-beb7-d3813ddf6eba</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B48F82C1DE0F64DFBBD54928F2EC1D2512EE543B803B5BF469985281F225EF45</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a8604f70-71c8-4a50-beb7-d3813ddf6eba_1.0.0.0_neutral__5gyrq6psz227t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a8604f70-71c8-4a50-beb7-d3813ddf6eba_5gyrq6psz227t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a8604f70-71c8-4a50-beb7-d3813ddf6eba</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Admin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-14T13:55:35.663</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:10.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\BadgeLogo.scale-125.png">
+      <PackagePath>images\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:10.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\BadgeLogo.scale-150.png">
+      <PackagePath>images\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:10.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\BadgeLogo.scale-200.png">
+      <PackagePath>images\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:10.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\BadgeLogo.scale-400.png">
+      <PackagePath>images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:10.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Sachtony-Main-Logo.png">
+      <PackagePath>images\Sachtony-Main-Logo.png</PackagePath>
+      <Modified>2019-04-24T13:19:29.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-08-12T14:07:37.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:33.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:31.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-12T14:07:37.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-13T02:27:32.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2019-08-12T14:52:34.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2019-08-12T14:07:37.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2019-08-12T14:07:37.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-08-14T13:55:35.522</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
