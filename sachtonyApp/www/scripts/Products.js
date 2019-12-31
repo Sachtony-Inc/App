@@ -1,3 +1,4 @@
+<div id="ccs-brand-showcase"></div>
 <!-- Sachtony Store -->
 
         <script type='text/javascript'>
