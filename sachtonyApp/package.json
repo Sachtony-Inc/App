@@ -1,14 +1,13 @@
 {
     "name": "SachtonyApp",
-    // Step 1: Use `publishConfig` option in your package.json
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        <dependency>
-            <groupId>com.microsoft.store</groupId>
-            <artifactId>partnercenter</artifactId>
-            <version>1.15.1</version>
-        </dependency>
+        "dependency" {
+            "groupId": "com.microsoft.store",
+            "artifactId": "partnercenter",
+            "version": "1.15.1"
+        }
     }
 }
