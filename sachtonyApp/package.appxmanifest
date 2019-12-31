@@ -14,7 +14,7 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application Id="App" StartPage="https://sachtony.com">
+    <Application Id="sachtonyApp" StartPage="https://sachtony.com">
       <uap:ApplicationContentUriRules>
         <uap:Rule Match="https://sachtony.com" Type="include" WindowsRuntimeAccess="all" />
         <uap:Rule Match="https://*.*" Type="include" WindowsRuntimeAccess="none" />
