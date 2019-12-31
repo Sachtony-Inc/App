@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="a8604f70-71c8-4a50-beb7-d3813ddf6eba" Version="1.1.0.0" Publisher="CN=Sachtony Software" />
+  <Identity Name="SachtonyStore" Version="1.1.0.0" Publisher="CN=9CA4915D-4B5D-412E-AF35-5BCB1DD2AECB" />
   <mp:PhoneIdentity PhoneProductId="a8604f70-71c8-4a50-beb7-d3813ddf6eba" PhonePublisherId="2ab175ae-d16d-408b-ada1-b6d67e2f9cab" />
   <Properties>
     <DisplayName>Sachtony Store</DisplayName>
