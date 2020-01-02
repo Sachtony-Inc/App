@@ -8,7 +8,23 @@
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+      <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+      <dependency>
+         <groupId>com.twilio.sdk</groupId>
+         <artifactId>twilio</artifactId>
+         <version>7.42.0</version>
+      </dependency>
+         <!-- Application: Add this dependency to your project's Sachtony Software Azure Active Directory -->
+      <dependency>
+         <groupId>com.microsoft.azure</groupId>
+         <artifactId>msal4j</artifactId>
+         <version>1.0.0</version>
+      </dependency>
+      <dependency>
+         <groupId>com.microsoft.store</groupId>
+         <artifactId>partnercenter</artifactId>
+         <version>1.15.1</version>
+      </dependency>
   </Dependencies>
   <Resources>
     <Resource Language="x-generate" />
