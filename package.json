@@ -1,7 +1,7 @@
 {
   "name": "Apps",
   "version": "1.0.0.0",
-  "license": "Eclipse",
+  "license": "Sachtony Software",
   "Directory (tenant) ID": "f0fae2c0-c182-45fa-87b9-4d2bab321dc5",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "SolutionGuid": {"346342AF-3306-4C45-932D-02A1D2899FDE"},
