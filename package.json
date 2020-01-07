@@ -1,7 +1,7 @@
 {
   "name": "Apps",
   "groupId": "com.sachtony.store",
-  "artifactId": "sachtonystore",
+  "artifactId": "sachtonyApp",
   "version": "1.0.0.0",
   "license": "Sachtony Software",
   "Directory (tenant) ID": "f0fae2c0-c182-45fa-87b9-4d2bab321dc5",
