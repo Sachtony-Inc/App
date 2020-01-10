@@ -2,14 +2,14 @@
 <widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="Store" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US" windows-packageVersion="1.0.0.0">
   <name>Sachtony Store</name>
   <description>a Store on multi device, multi platform</description>
-  <author href="https://github.com/TonyDuong" email="support@sachtony.com">TonyDuong</author>
+  <author href="https://github.com/TonyDuong" email="support@sachtony.com">TonyDuong publisher="CN=9CA4915D-4B5D-412E-AF35-5BCB1DD2AECB"</author>
   <vs:template-name>BlankJS</vs:template-name>
   <vs:toolsetVersion>6.3.1</vs:toolsetVersion>
   <engine name="android" spec="5.2.1" />
   <engine name="ios" spec="4.2.0" />
   <engine name="windows" spec="4.4.2" />
   <content src="index.html" />
-  <access origin="*" />
+  <access origin="sachtony" />
   <preference name="SplashScreen" value="screen" />
   <preference name="windows-target-version" value="10.0" />
   <!-- Support for Cordova 5.0.0 plugin system -->
