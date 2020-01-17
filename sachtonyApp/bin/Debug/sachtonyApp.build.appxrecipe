@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>a8604f70-71c8-4a50-beb7-d3813ddf6eba</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
+    <PackageIdentityName>com.sachtony.store</PackageIdentityName>
+    <PackageIdentityPublisher>CN=9CA4915D-4B5D-412E-AF35-5BCB1DD2AECB</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Admin\source\repos\sachtonyApp\sachtonyApp\bld\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
