@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="Sachtony Store" Version="1.0.0.0" Publisher="CN=9CA4915D-4B5D-412E-AF35-5BCB1DD2AECB" ProcessorArchitecture="neutral" />
+  <Identity Name="com.sachtony.store" Version="1.0.0.0" Publisher="CN=9CA4915D-4B5D-412E-AF35-5BCB1DD2AECB" ProcessorArchitecture="neutral" />
   <mp:PhoneIdentity PhoneProductId="a8604f70-71c8-4a50-beb7-d3813ddf6eba" PhonePublisherId="2ab175ae-d16d-408b-ada1-b6d67e2f9cab" />
   <Properties>
     <DisplayName>sachtonyApp</DisplayName>
