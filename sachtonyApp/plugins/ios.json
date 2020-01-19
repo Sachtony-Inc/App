@@ -8,10 +8,10 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "io.sachtony.sachtonystore"
+            "PACKAGE_NAME": "io.sachtony.store"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "io.sachtony.sachtonystore"
+            "PACKAGE_NAME": "io.sachtony.store"
         }
     },
     "dependent_plugins": {}
