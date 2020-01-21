@@ -1,11 +1,15 @@
 {
     "name": "Sachtony Store",
     "dependencies": {
+      "sachtony": {  
         "groupId": "com.sachtony.store",
         "artifactId": "sachtonyApp",
         "version": "1.0.0.0",
+      },
+      "microsoft": {  
         "groupId": "com.microsoft.store",
         "artifactId": "partnercenter",
         "version": "1.15.2"
+      }
     }
 }
