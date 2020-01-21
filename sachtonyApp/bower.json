@@ -1,7 +1,7 @@
 {
     "name": "Sachtony Store",
     "dependencies": {
-      "sachtony": {  
+      "sachtonystore": {  
         "groupId": "com.sachtony.store",
         "artifactId": "sachtonyApp",
         "version": "1.0.0.0",
