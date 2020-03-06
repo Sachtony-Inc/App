@@ -3,6 +3,7 @@
   "groupId": "com.sachtony.store",
   "artifactId": "sachtonyApp",
   "version": "1.0.0.0",
+  "private": true,
   "license": "Sachtony Software",
   "Directory (tenant) ID": "f0fae2c0-c182-45fa-87b9-4d2bab321dc5",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
